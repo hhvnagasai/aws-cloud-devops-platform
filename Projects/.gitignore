@@ -1,0 +1,85 @@
+# =========================
+# Build folders
+# =========================
+target/
+build/
+out/
+bin/
+
+# =========================
+# Java compiled files
+# =========================
+*.class
+*.jar
+*.war
+*.ear
+
+# =========================
+# Logs
+# =========================
+*.log
+logs/
+
+# =========================
+# OS files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# IDE - IntelliJ
+# =========================
+.idea/
+*.iml
+
+# =========================
+# IDE - Eclipse
+# =========================
+.classpath
+.project
+.settings/
+
+# =========================
+# IDE - VS Code
+# =========================
+.vscode/
+
+# =========================
+# Node (if frontend exists)
+# =========================
+node_modules/
+dist/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# =========================
+# Environment files (IMPORTANT)
+# =========================
+.env
+.env.*
+*.env
+
+# =========================
+# Temporary files
+# =========================
+*.tmp
+*.swp
+*.bak
+
+# =========================
+# Database files (be careful)
+# =========================
+*.db
+*.sqlite
+
+# ⚠️ Comment this if you WANT to push SQL files
+# *.sql
+
+# =========================
+# Maven wrapper
+# =========================
+.mvn/
+*.zip
+MultiTenantCrm/
+
