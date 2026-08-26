@@ -83,3 +83,6 @@ Thumbs.db
 # Terraform plan and temporary cleanup files
 **/tfplan
 *.before-secret-cleanup
+
+# Company application source code
+Projects/microservicedemo/
